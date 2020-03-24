@@ -1,0 +1,14 @@
+{
+  "name": "hrsurveyapp_electron",
+  "version": "1.0.0",
+  "description": "Desktop prototype app for HR Survey",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Marc Gaddis",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^8.0.1"
+  }
+}

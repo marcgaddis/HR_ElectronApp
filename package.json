@@ -9,6 +9,6 @@
   "author": "Marc Gaddis",
   "license": "MIT",
   "dependencies": {
-    "electron": "^8.0.1"
+    "electron": "^9.4.0"
   }
 }
